@@ -1,0 +1,8 @@
+{
+  "name": "Kishore General Store - Smart Khata",
+  "description": "A smart AI-powered mobile khata and billing app with Babu Rao assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
